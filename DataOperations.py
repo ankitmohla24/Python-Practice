@@ -15,3 +15,6 @@ days = 24
 
 #print minutes per day
 print minutes*hours
+print "minutes per day"
+print hours*days
+print "hours per week"
