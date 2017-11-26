@@ -1,0 +1,10 @@
+user = raw_input("Enter your username ")
+file_object = open("usernames.txt","a")
+file_object.write(user+"\n")
+file_object.close()
+
+file_object2 = open("usernames.txt","r")
+nameList = file_object2.read()
+file_object2.close()
+print (nameList)
+print (": were the previous users.")
