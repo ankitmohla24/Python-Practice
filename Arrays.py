@@ -11,3 +11,4 @@ for x in range(0, number):
     element = input("Enter element")
     List1.append(element)
 print "sum of List is ", sumoflist(List1)
+print "average of the List is ", sumoflist(List1)/len(List1)
