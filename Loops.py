@@ -1,10 +1,10 @@
 def whileloop(n):
-    x=0
+    x = 0
     while x < n:
         print "use of while",
         print x,
         print "times"
-        x = x+1
+        x = x + 1
 
 
 def forloop(n):
