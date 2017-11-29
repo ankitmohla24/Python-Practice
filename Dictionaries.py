@@ -6,7 +6,7 @@ def exists_in(A, name):
     return result
 
 
-tele_directory = dict(Ankit=9294535117, Harsh=6264532434, Abhishek=6753426198)
+tele_directory = dict(Ankit=9294535127, Harsh=6264532434, Abhishek=6753426198)
 for x in tele_directory:
     print x
 
